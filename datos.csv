@@ -1,0 +1,16 @@
+Producto,Categoria,Sucursal,Precio_Unitario,Stock
+Laptop Asus,Tecnologia,San Salvador,850.00,15
+Laptop Asus,Tecnologia,San Miguel,850.00,8
+Monitor 27,Tecnologia,Santa Ana,220.00,25
+Teclado Mecanico,Tecnologia,La Libertad,65.00,40
+Mouse Inalambrico,Tecnologia,Sonsonate,25.00,60
+Silla Ergonomica,Mobiliario,San Salvador,180.00,12
+Escritorio Mdf,Mobiliario,San Miguel,150.00,10
+Impresora Multifuncional,Tecnologia,Santa Ana,190.00,7
+Router Wi-Fi 6,Redes,La Libertad,85.00,30
+Switch 16 Puertos,Redes,Sonsonate,110.00,18
+Disco Duro 2TB,Almacenamiento,San Salvador,75.00,50
+Memoria RAM 16GB,Almacenamiento,San Miguel,55.00,45
+Cable UTP Categoria 6,Redes,Santa Ana,35.00,100
+Audifonos Bluetooth,Tecnologia,La Libertad,45.00,22
+Camara Web Full HD,Tecnologia,Sonsonate,50.00,15
